@@ -1,0 +1,234 @@
+[DEBUG][2025/09/09; 14:39:28]: Counting rows and col cells; cursor cell (2, 1)
+[DEBUG][2025/09/09; 14:39:28]: Selected count target X for column
+[DEBUG][2025/09/09; 14:39:28]: Selected count target X for row
+[DEBUG][2025/09/09; 14:39:28]: Current same-column cell 1 value O, Current same-row cell 6 value O
+[DEBUG][2025/09/09; 14:39:28]: Current same-column cell 4 value X, Current same-row cell 7 value X
+[DEBUG][2025/09/09; 14:39:28]: Current same-column cell 7 value X, Current same-row cell 8 value X
+[DEBUG][2025/09/09; 14:41:23]: Counting rows and col cells; cursor cell (2, 1)
+[DEBUG][2025/09/09; 14:41:26]: Selected count target X for column
+[DEBUG][2025/09/09; 14:41:28]: Selected count target X for row
+[DEBUG][2025/09/09; 14:41:49]: Current same-column cell 1 value O, Current same-row cell 6 value O
+[DEBUG][2025/09/09; 14:42:46]: Current same-column cell 4 value X, Current same-row cell 7 value X
+[DEBUG][2025/09/09; 14:42:54]: Current same-column cell 7 value X, Current same-row cell 8 value X
+[DEBUG][2025/09/09; 14:45:09]: Counting rows and col cells; cursor cell (0, 0)[DEBUG][2025/09/09; 14:45:09]: Counting rows and col cells; cursor cell (0, 1)
+
+[DEBUG][2025/09/09; 14:45:09]: Counting rows and col cells; cursor cell (1, 1)[DEBUG][2025/09/09; 14:45:09]: Counting rows and col cells; cursor cell (2, 0)[DEBUG][2025/09/09; 14:45:09]: Selected count target None for column
+[DEBUG][2025/09/09; 14:45:09]: Selected count target O for column
+
+
+[DEBUG][2025/09/09; 14:45:09]: Selected count target O for column[DEBUG][2025/09/09; 14:45:09]: Selected count target None for row
+[DEBUG][2025/09/09; 14:45:09]: Selected count target X for row
+
+[DEBUG][2025/09/09; 14:45:09]: Selected count target None for row[DEBUG][2025/09/09; 14:45:09]: Selected count target O for column[DEBUG][2025/09/09; 14:45:09]: Current same-column cell 0 value None, Current same-row cell 0 value None
+
+[DEBUG][2025/09/09; 14:45:09]: Current same-column cell 3 value None, Current same-row cell 1 value None
+[DEBUG][2025/09/09; 14:45:09]: Current same-column cell 1 value X, Current same-row cell 0 value X[DEBUG][2025/09/09; 14:45:09]: Current same-column cell 6 value None, Current same-row cell 2 value None
+[DEBUG][2025/09/09; 14:45:09]: Current same-column cell 0 value O, Current same-row cell 6 value O
+
+
+[DEBUG][2025/09/09; 14:45:09]: Current same-column cell 4 value None, Current same-row cell 1 value X[DEBUG][2025/09/09; 14:45:09]: Current same-column cell 3 value O, Current same-row cell 7 value X
+
+[DEBUG][2025/09/09; 14:45:09]: Selected count target O for row[DEBUG][2025/09/09; 14:45:09]: Current same-column cell 6 value O, Current same-row cell 8 value None
+
+[DEBUG][2025/09/09; 14:45:09]: Current same-column cell 7 value O, Current same-row cell 2 value X
+[DEBUG][2025/09/09; 14:45:09]: Current same-column cell 1 value O, Current same-row cell 3 value O
+[DEBUG][2025/09/09; 14:45:09]: Current same-column cell 4 value X, Current same-row cell 4 value X
+[DEBUG][2025/09/09; 14:45:09]: Current same-column cell 7 value None, Current same-row cell 5 value O
+[DEBUG][2025/09/09; 14:54:21]: Counting rows and col cells; cursor cell (0, 0)
+[DEBUG][2025/09/09; 14:54:21]: Selected count target None for column[DEBUG][2025/09/09; 14:54:21]: Counting rows and col cells; cursor cell (2, 0)[DEBUG][2025/09/09; 14:54:21]: Counting rows and col cells; cursor cell (0, 1)
+
+
+[DEBUG][2025/09/09; 14:54:21]: Counting rows and col cells; cursor cell (1, 1)[DEBUG][2025/09/09; 14:54:21]: Selected count target None for row[DEBUG][2025/09/09; 14:54:21]: Selected count target O for column
+[DEBUG][2025/09/09; 14:54:21]: Selected count target O for column
+
+
+[DEBUG][2025/09/09; 14:54:21]: Selected count target O for column[DEBUG][2025/09/09; 14:54:21]: Selected count target None for row[DEBUG][2025/09/09; 14:54:21]: Current same-column cell 0 value None, Current same-row cell 0 value None
+[DEBUG][2025/09/09; 14:54:21]: Selected count target X for row
+
+
+[DEBUG][2025/09/09; 14:54:21]: Selected count target O for row[DEBUG][2025/09/09; 14:54:21]: Current same-column cell 0 value O, Current same-row cell 6 value O[DEBUG][2025/09/09; 14:54:21]: Current same-column cell 3 value None, Current same-row cell 1 value None
+[DEBUG][2025/09/09; 14:54:21]: Current same-column cell 1 value X, Current same-row cell 0 value X
+
+
+[DEBUG][2025/09/09; 14:54:21]: Current same-column cell 1 value O, Current same-row cell 3 value O[DEBUG][2025/09/09; 14:54:21]: Current same-column cell 3 value O, Current same-row cell 7 value X[DEBUG][2025/09/09; 14:54:21]: Current same-column cell 6 value None, Current same-row cell 2 value None
+
+[DEBUG][2025/09/09; 14:54:21]: Current same-column cell 4 value None, Current same-row cell 1 value X
+[DEBUG][2025/09/09; 14:54:21]: Current same-column cell 6 value O, Current same-row cell 8 value None
+[DEBUG][2025/09/09; 14:54:21]: Current same-column cell 4 value X, Current same-row cell 4 value X
+
+[DEBUG][2025/09/09; 14:54:21]: Current same-column cell 7 value O, Current same-row cell 2 value X
+[DEBUG][2025/09/09; 14:54:21]: Current same-column cell 7 value None, Current same-row cell 5 value O
+[DEBUG][2025/09/09; 14:59:29]: Counting rows and col cells; cursor cell (0, 0)[DEBUG][2025/09/09; 14:59:29]: Counting rows and col cells; cursor cell (2, 0)[DEBUG][2025/09/09; 14:59:29]: Counting rows and col cells; cursor cell (0, 1)[DEBUG][2025/09/09; 14:59:29]: Counting rows and col cells; cursor cell (1, 1)
+
+
+
+[DEBUG][2025/09/09; 14:59:29]: Selected count target None for column[DEBUG][2025/09/09; 14:59:29]: Selected count target X for column[DEBUG][2025/09/09; 14:59:29]: Selected count target None for column
+[DEBUG][2025/09/09; 14:59:29]: Selected count target X for column
+
+
+[DEBUG][2025/09/09; 14:59:29]: Selected count target None for row[DEBUG][2025/09/09; 14:59:29]: Selected count target None for row[DEBUG][2025/09/09; 14:59:29]: Selected count target X for row
+[DEBUG][2025/09/09; 14:59:29]: Selected count target O for row
+
+
+[DEBUG][2025/09/09; 14:59:29]: Current same-column cell 0 value None, Current same-row cell 0 value None[DEBUG][2025/09/09; 14:59:29]: Current same-column cell 0 value O, Current same-row cell 6 value O[DEBUG][2025/09/09; 14:59:29]: Current same-column cell 1 value X, Current same-row cell 0 value X
+
+[DEBUG][2025/09/09; 14:59:29]: Current same-column cell 1 value O, Current same-row cell 3 value O
+[DEBUG][2025/09/09; 14:59:29]: Current same-column cell 3 value None, Current same-row cell 1 value None
+[DEBUG][2025/09/09; 14:59:29]: Current same-column cell 3 value O, Current same-row cell 7 value X[DEBUG][2025/09/09; 14:59:29]: Current same-column cell 4 value None, Current same-row cell 1 value X
+
+
+[DEBUG][2025/09/09; 14:59:29]: Current same-column cell 4 value X, Current same-row cell 4 value X[DEBUG][2025/09/09; 14:59:29]: Current same-column cell 6 value None, Current same-row cell 2 value None[DEBUG][2025/09/09; 14:59:29]: Current same-column cell 6 value O, Current same-row cell 8 value None
+[DEBUG][2025/09/09; 14:59:29]: Current same-column cell 7 value O, Current same-row cell 2 value X
+
+
+[DEBUG][2025/09/09; 14:59:29]: Current same-column cell 7 value None, Current same-row cell 5 value O
+[DEBUG][2025/09/09; 15:00:28]: Counting rows and col cells; cursor cell (0, 1)
+[DEBUG][2025/09/09; 15:00:30]: Selected count target None for column
+[DEBUG][2025/09/09; 15:00:32]: Selected count target X for row
+[DEBUG][2025/09/09; 15:00:47]: Current same-column cell 1 value X, Current same-row cell 0 value X
+[DEBUG][2025/09/09; 15:00:56]: Current same-column cell 4 value None, Current same-row cell 1 value X
+[DEBUG][2025/09/09; 15:00:56]: Current same-column cell 7 value O, Current same-row cell 2 value X
+[DEBUG][2025/09/10; 09:15:44]: Counting rows and col cells; cursor cell (0, 0)[DEBUG][2025/09/10; 09:15:44]: Counting rows and col cells; cursor cell (2, 0)
+[DEBUG][2025/09/10; 09:15:44]: Counting rows and col cells; cursor cell (1, 1)[DEBUG][2025/09/10; 09:15:44]: Counting rows and col cells; cursor cell (0, 1)
+
+[DEBUG][2025/09/10; 09:15:44]: Selected count target None for column
+
+[DEBUG][2025/09/10; 09:15:44]: Selected count target X for column[DEBUG][2025/09/10; 09:15:44]: Selected count target X for column[DEBUG][2025/09/10; 09:15:44]: Selected count target None for row[DEBUG][2025/09/10; 09:15:44]: Selected count target None for column
+
+
+
+[DEBUG][2025/09/10; 09:15:44]: Selected count target None for row[DEBUG][2025/09/10; 09:15:44]: Current same-column cell 0 value None, Current same-row cell 0 value None[DEBUG][2025/09/10; 09:15:44]: Selected count target O for row
+[DEBUG][2025/09/10; 09:15:44]: Selected count target X for row
+
+
+[DEBUG][2025/09/10; 09:15:44]: Current same-column cell 0 value O, Current same-row cell 6 value O[DEBUG][2025/09/10; 09:15:44]: Current same-column cell 3 value None, Current same-row cell 1 value None[DEBUG][2025/09/10; 09:15:44]: Current same-column cell 1 value X, Current same-row cell 0 value X[DEBUG][2025/09/10; 09:15:44]: Current same-column cell 1 value O, Current same-row cell 3 value O
+
+
+
+[DEBUG][2025/09/10; 09:15:44]: Current same-column cell 6 value None, Current same-row cell 2 value None[DEBUG][2025/09/10; 09:15:44]: Current same-column cell 4 value None, Current same-row cell 1 value X[DEBUG][2025/09/10; 09:15:44]: Current same-column cell 3 value O, Current same-row cell 7 value X
+
+[DEBUG][2025/09/10; 09:15:44]: Current same-column cell 4 value X, Current same-row cell 4 value X
+[DEBUG][2025/09/10; 09:15:44]: Current same-column cell 7 value O, Current same-row cell 2 value X
+
+[DEBUG][2025/09/10; 09:15:44]: Current same-column cell 6 value O, Current same-row cell 8 value None
+[DEBUG][2025/09/10; 09:15:44]: Current same-column cell 7 value None, Current same-row cell 5 value O
+[DEBUG][2025/09/10; 09:17:51]: Counting rows and col cells; cursor cell (0, 1)
+[DEBUG][2025/09/10; 09:17:53]: Selected count target None for column
+[DEBUG][2025/09/10; 09:17:55]: Selected count target X for row
+[DEBUG][2025/09/10; 09:18:06]: Current same-column cell 1 value X, Current same-row cell 0 value X
+[DEBUG][2025/09/10; 09:23:12]: Current same-column cell 4 value None, Current same-row cell 1 value X
+[DEBUG][2025/09/10; 09:25:43]: Counting rows and col cells; cursor cell (0, 1)
+[DEBUG][2025/09/10; 09:25:51]: Selected count target O for column
+[DEBUG][2025/09/10; 09:25:54]: Selected count target X for row
+[DEBUG][2025/09/10; 09:26:05]: Current same-column cell 1 value X, Current same-row cell 0 value X
+[DEBUG][2025/09/10; 09:26:20]: Current same-column cell 4 value None, Current same-row cell 1 value X
+[DEBUG][2025/09/10; 09:26:34]: Current same-column cell 7 value O, Current same-row cell 2 value X
+[DEBUG][2025/09/10; 09:33:18]: Counting rows and col cells; cursor cell (0, 1)
+[DEBUG][2025/09/10; 09:33:18]: Selected count target O for column
+[DEBUG][2025/09/10; 09:33:18]: Selected count target X for row
+[DEBUG][2025/09/10; 09:33:18]: Current same-column cell 1 value X, Current same-row cell 0 value X
+[DEBUG][2025/09/10; 09:33:18]: Current same-column cell 4 value None, Current same-row cell 1 value X
+[DEBUG][2025/09/10; 09:33:18]: Current same-column cell 7 value O, Current same-row cell 2 value X
+[DEBUG][2025/09/10; 09:36:33]: Counting rows and col cells; cursor cell (2, 0)[DEBUG][2025/09/10; 09:36:33]: Counting rows and col cells; cursor cell (0, 0)
+
+[DEBUG][2025/09/10; 09:36:33]: Selected count target None for column[DEBUG][2025/09/10; 09:36:33]: Counting rows and col cells; cursor cell (1, 1)
+[DEBUG][2025/09/10; 09:36:33]: Selected count target None for column
+[DEBUG][2025/09/10; 09:36:33]: Selected count target None for row
+[DEBUG][2025/09/10; 09:36:33]: Counting rows and col cells; cursor cell (0, 1)
+[DEBUG][2025/09/10; 09:36:33]: Selected count target X for column[DEBUG][2025/09/10; 09:36:33]: Selected count target None for row
+
+[DEBUG][2025/09/10; 09:36:33]: Current same-column cell 0 value O, Current same-row cell 6 value O
+[DEBUG][2025/09/10; 09:36:33]: Selected count target X for row
+[DEBUG][2025/09/10; 09:36:33]: Selected count target O for column
+[DEBUG][2025/09/10; 09:36:33]: Current same-column cell 0 value None, Current same-row cell 0 value None
+[DEBUG][2025/09/10; 09:36:33]: Current same-column cell 3 value O, Current same-row cell 7 value X[DEBUG][2025/09/10; 09:36:33]: Current same-column cell 1 value O, Current same-row cell 3 value O
+[DEBUG][2025/09/10; 09:36:33]: Selected count target O for row
+
+[DEBUG][2025/09/10; 09:36:33]: Current same-column cell 3 value None, Current same-row cell 1 value None[DEBUG][2025/09/10; 09:36:33]: Current same-column cell 4 value X, Current same-row cell 4 value X[DEBUG][2025/09/10; 09:36:33]: Current same-column cell 1 value X, Current same-row cell 0 value X
+
+
+
+[DEBUG][2025/09/10; 09:36:33]: Current same-column cell 6 value None, Current same-row cell 2 value None
+[DEBUG][2025/09/10; 09:36:33]: Current same-column cell 7 value None, Current same-row cell 5 value O[DEBUG][2025/09/10; 09:36:33]: Current same-column cell 6 value O, Current same-row cell 8 value None
+
+[DEBUG][2025/09/10; 09:36:33]: Current same-column cell 4 value None, Current same-row cell 1 value X
+[DEBUG][2025/09/10; 09:36:33]: Current same-column cell 7 value O, Current same-row cell 2 value X
+[DEBUG][2025/09/10; 09:40:07]: Counting rows and col cells; cursor cell (1, 0)
+[DEBUG][2025/09/10; 09:40:08]: Selected count target X for column
+[DEBUG][2025/09/10; 09:40:11]: Selected count target X for row
+[DEBUG][2025/09/10; 09:40:19]: Current same-column cell 0 value X, Current same-row cell 3 value O
+[DEBUG][2025/09/10; 09:40:19]: Current same-column cell 3 value O, Current same-row cell 4 value None
+[DEBUG][2025/09/10; 09:40:19]: Current same-column cell 6 value None, Current same-row cell 5 value O
+[DEBUG][2025/09/10; 09:41:10]: Counting rows and col cells; cursor cell (1, 0)
+[DEBUG][2025/09/10; 09:41:12]: Selected count target X for column
+[DEBUG][2025/09/10; 09:41:14]: Selected count target X for row
+[DEBUG][2025/09/10; 09:41:29]: Current same-column cell 0 value X, Current same-row cell 3 value O
+[DEBUG][2025/09/10; 09:49:37]: Counting rows and col cells; cursor cell (1, 0)
+[DEBUG][2025/09/10; 09:49:39]: Selected count target X for row
+[DEBUG][2025/09/10; 09:53:14]: Counting rows and col cells; cursor cell (1, 0)
+[DEBUG][2025/09/10; 09:53:17]: Selected count target X for row
+[DEBUG][2025/09/10; 09:56:08]: Counting rows and col cells; cursor cell (1, 0)
+[DEBUG][2025/09/10; 09:56:11]: Selected count target X for row
+[DEBUG][2025/09/10; 09:56:18]: Current same-column cell 1 value X, Current same-row cell 0 value X
+[DEBUG][2025/09/10; 09:56:18]: Current same-column cell 4 value None, Current same-row cell 1 value X
+[DEBUG][2025/09/10; 09:56:18]: Current same-column cell 7 value O, Current same-row cell 2 value X
+[DEBUG][2025/09/10; 09:56:35]: Counting rows and col cells; cursor cell (0, 0)
+[DEBUG][2025/09/10; 09:56:35]: Selected count target None for row
+[DEBUG][2025/09/10; 09:56:35]: Current same-column cell 0 value None, Current same-row cell 0 value None
+[DEBUG][2025/09/10; 09:56:35]: Current same-column cell 3 value None, Current same-row cell 1 value None
+[DEBUG][2025/09/10; 09:56:35]: Counting rows and col cells; cursor cell (1, 1)[DEBUG][2025/09/10; 09:56:35]: Counting rows and col cells; cursor cell (1, 0)[DEBUG][2025/09/10; 09:56:35]: Current same-column cell 6 value None, Current same-row cell 2 value None
+
+
+[DEBUG][2025/09/10; 09:56:35]: Selected count target X for row[DEBUG][2025/09/10; 09:56:35]: Selected count target X for row
+
+[DEBUG][2025/09/10; 09:56:35]: Counting rows and col cells; cursor cell (2, 0)[DEBUG][2025/09/10; 09:56:35]: Current same-column cell 1 value O, Current same-row cell 3 value O[DEBUG][2025/09/10; 09:56:35]: Current same-column cell 1 value X, Current same-row cell 0 value X
+
+
+[DEBUG][2025/09/10; 09:56:35]: Current same-column cell 4 value X, Current same-row cell 4 value X[DEBUG][2025/09/10; 09:56:35]: Selected count target None for row[DEBUG][2025/09/10; 09:56:35]: Current same-column cell 4 value None, Current same-row cell 1 value X
+
+
+[DEBUG][2025/09/10; 09:56:35]: Current same-column cell 7 value None, Current same-row cell 5 value O
+[DEBUG][2025/09/10; 09:56:35]: Current same-column cell 2 value None, Current same-row cell 0 value O[DEBUG][2025/09/10; 09:56:35]: Current same-column cell 7 value O, Current same-row cell 2 value X
+
+[DEBUG][2025/09/10; 09:56:35]: Current same-column cell 5 value X, Current same-row cell 1 value X
+[DEBUG][2025/09/10; 09:56:35]: Current same-column cell 8 value None, Current same-row cell 2 value None
+[DEBUG][2025/09/10; 09:58:49]: Counting rows and col cells; cursor cell (1, 0)[DEBUG][2025/09/10; 09:58:49]: Counting rows and col cells; cursor cell (1, 1)
+
+[DEBUG][2025/09/10; 09:58:49]: Counting rows and col cells; cursor cell (0, 2)[DEBUG][2025/09/10; 09:58:49]: Selected count target X for row
+[DEBUG][2025/09/10; 09:58:49]: Selected count target X for row
+
+[DEBUG][2025/09/10; 09:58:49]: Selected count target O for row[DEBUG][2025/09/10; 09:58:49]: Current same-column cell 1 value O, Current same-row cell 3 value O
+[DEBUG][2025/09/10; 09:58:49]: Current same-column cell 1 value X, Current same-row cell 0 value X
+
+[DEBUG][2025/09/10; 09:58:49]: Current same-column cell 0 value O, Current same-row cell 6 value O[DEBUG][2025/09/10; 09:58:49]: Counting rows and col cells; cursor cell (0, 0)
+[DEBUG][2025/09/10; 09:58:49]: Current same-column cell 4 value X, Current same-row cell 4 value X
+
+[DEBUG][2025/09/10; 09:58:49]: Current same-column cell 3 value O, Current same-row cell 7 value X
+[DEBUG][2025/09/10; 09:58:49]: Current same-column cell 7 value None, Current same-row cell 5 value O[DEBUG][2025/09/10; 09:58:49]: Selected count target None for row
+[DEBUG][2025/09/10; 09:58:49]: Current same-column cell 0 value None, Current same-row cell 0 value None
+[DEBUG][2025/09/10; 09:58:49]: Current same-column cell 3 value None, Current same-row cell 1 value None
+[DEBUG][2025/09/10; 09:58:49]: Current same-column cell 6 value None, Current same-row cell 2 value None
+[DEBUG][2025/09/10; 09:58:49]: Current same-column cell 4 value None, Current same-row cell 1 value X[DEBUG][2025/09/10; 09:58:49]: Current same-column cell 6 value O, Current same-row cell 8 value None
+
+
+[DEBUG][2025/09/10; 09:58:49]: Current same-column cell 7 value O, Current same-row cell 2 value X
+[DEBUG][2025/09/10; 10:00:06]: Counting rows and col cells; cursor cell (0, 0)
+[DEBUG][2025/09/10; 10:00:06]: Selected count target None for row
+[DEBUG][2025/09/10; 10:00:06]: Current same-column cell 0 value None, Current same-row cell 0 value None
+[DEBUG][2025/09/10; 10:00:06]: Current same-column cell 3 value None, Current same-row cell 1 value None
+[DEBUG][2025/09/10; 10:00:06]: Counting rows and col cells; cursor cell (1, 1)[DEBUG][2025/09/10; 10:00:06]: Current same-column cell 6 value None, Current same-row cell 2 value None
+
+[DEBUG][2025/09/10; 10:00:06]: Counting rows and col cells; cursor cell (0, 2)
+[DEBUG][2025/09/10; 10:00:06]: Counting rows and col cells; cursor cell (1, 0)
+[DEBUG][2025/09/10; 10:00:06]: Selected count target X for row[DEBUG][2025/09/10; 10:00:06]: Selected count target O for row[DEBUG][2025/09/10; 10:00:06]: Selected count target X for row
+
+
+[DEBUG][2025/09/10; 10:00:06]: Current same-column cell 0 value O, Current same-row cell 6 value O
+[DEBUG][2025/09/10; 10:00:06]: Current same-column cell 1 value X, Current same-row cell 0 value X[DEBUG][2025/09/10; 10:00:06]: Current same-column cell 1 value O, Current same-row cell 3 value O
+
+[DEBUG][2025/09/10; 10:00:06]: Current same-column cell 3 value O, Current same-row cell 7 value X[DEBUG][2025/09/10; 10:00:06]: Current same-column cell 4 value X, Current same-row cell 4 value X
+
+[DEBUG][2025/09/10; 10:00:06]: Current same-column cell 4 value None, Current same-row cell 1 value X
+[DEBUG][2025/09/10; 10:00:06]: Current same-column cell 7 value None, Current same-row cell 5 value O
+[DEBUG][2025/09/10; 10:00:06]: Current same-column cell 6 value O, Current same-row cell 8 value None[DEBUG][2025/09/10; 10:00:06]: Current same-column cell 7 value O, Current same-row cell 2 value X
+
